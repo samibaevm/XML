@@ -1,1 +1,29 @@
-
+<?xml version="1.0" encoding="windows-1251"?>   
+<Bug_ID> 
+  <ID_number> 1 </ID_number>
+  <Name> Bug_title </Name>
+  <Reporter> author </Reporter> 
+  <Submit_Date> yyyy.mm.dd.</Submit_Date>
+</Bug_ID>
+<Bug_overview>
+  <Summary> summary text </Summary>
+  <URL> url adress </URL>
+  <Screenshot> attachment </Screenshot>
+</Bug_overview>
+<Enviroment>
+  <Platform> WIN/Mac/Linux etc</Platform>
+  <Operating_system> OS ver </Operating_system>
+  <Browser> Chrome 53 </Browser>
+</Enviroment>           
+<Bug_details>
+  <Steps_to_reproduse>step_1 and etc </Steps_to_reproduse>
+  <expected_result> text </expected_result>
+  <actual_result> text </actual_result>
+  <Description> text </Description>
+  </Bug_details>
+<Bug_tracking>
+  <severity> Critical, Major, mediud, low </severity>
+  <assigned_to> programmer </assigned_to>
+  <priority> high, medium, low </priority>
+  <notes> / </notes>
+</Bug_tracking>
